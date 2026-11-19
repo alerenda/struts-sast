@@ -16,6 +16,7 @@
 -->
 The Apache Struts web framework
 -------------------------------
+...
 
 [![Jenkins Build](https://builds.apache.org/buildStatus/icon?job=Struts%2FStruts+Core%2Fmaster)](https://ci-builds.apache.org/job/Struts/job/Struts%20Core/job/master/)
 [![Java Build](https://github.com/apache/struts/actions/workflows/maven.yml/badge.svg)](https://github.com/apache/struts/actions/workflows/maven.yml)
